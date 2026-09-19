@@ -1,0 +1,7 @@
+width,height,density,seed,algorithm_name,success,total_cost,path_length,nodes_explored,max_frontier_size,execution_time_seconds
+100,100,0.3,42,BFS,False,0.0,0,3,2,1.4066999995065999e-05
+100,100,0.3,42,DFS,False,0.0,0,3,2,6.096999982219131e-06
+100,100,0.3,42,Dijkstra,False,0.0,0,3,2,1.336999997647581e-05
+100,100,0.3,42,A* (manhattan),False,0.0,0,3,2,1.0215000031621457e-05
+100,100,0.3,42,A* (euclidean),False,0.0,0,3,2,1.3536999972529884e-05
+100,100,0.3,42,Greedy (manhattan),False,0.0,0,3,2,6.4769999994496175e-06
